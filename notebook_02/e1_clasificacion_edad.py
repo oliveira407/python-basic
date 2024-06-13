@@ -1,3 +1,4 @@
+"""""
 edad = int(input("Ingrese su edad "))
 
 if edad >= 0 and edad <= 12:
@@ -12,4 +13,8 @@ elif edad <= 64:
 else:
  print("Usted es un Adulto Mayor ")
 
+ """""
  
+ 
+int(4.56)
+print()
