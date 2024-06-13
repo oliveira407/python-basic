@@ -14,7 +14,7 @@ while confirmacion == True:
        confirmacion = True
     else: confirmacion = False   
     
-     
+
 if total >= 100 and total < 200:
     descuento = (10/100) * total
     total -= descuento
